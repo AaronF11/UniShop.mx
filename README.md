@@ -9,9 +9,9 @@ UniShop es una página web de comercio electrónico diseñada para estudiantes u
 - **Fácil navegación**: Hemos diseñado una interfaz intuitiva y fácil de usar para que los clientes puedan explorar y comprar productos de manera sencilla.
 
 ### Tecnologías utilizadas
-
-![Vite](/public/vite.svg) 
-![React](/src/assets/react.svg)
+- HTML
+- CSS
+- JS
 
 ### Capturas de pantalla
 
